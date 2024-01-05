@@ -1,8 +1,68 @@
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+# ReactJS Calculator App
 
-Currently, two official plugins are available:
+A simple calculator application built with ReactJS and Vite.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## Features
+
+- Basic arithmetic operations (addition, subtraction, multiplication, division)
+- Clear and reset functionality
+- Responsive design for various screen sizes
+
+## Installation and Usage
+
+---
+
+### Installation
+
+To install the project, use the following command:
+
+```bash
+npm install
+```
+
+### Usage
+
+After installation, run the project with the following command:
+
+```bash
+npm run dev
+```
+
+Once running, go to [localhost:3000](http://localhost:3000) to access the calculator app.
+
+---
+
+# اپلیکیشن ماشین حساب ReactJS
+
+یک اپلیکیشن ماشین حساب ساده نوشته شده با ReactJS و Vite.
+
+## ویژگی‌ها
+
+- عملیات حسابی اصلی (جمع، تفریق، ضرب، تقسیم)
+- قابلیت پاکسازی و بازنشانی
+- طراحی واکنش‌پذیر برای اندازه‌های صفحه مختلف
+
+## نصب و استفاده
+
+---
+
+### نصب
+
+برای نصب پروژه، از دستور زیر استفاده کنید:
+
+```bash
+npm install
+```
+
+### استفاده
+
+پس از نصب، پروژه را با دستور زیر اجرا کنید:
+
+```bash
+npm run dev
+```
+
+پس از اجرا، به [localhost:3000](http://localhost:3000) بروید تا به اپلیکیشن ماشین حساب دسترسی پیدا کنید.
+
+---
